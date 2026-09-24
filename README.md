@@ -35,10 +35,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyam200409&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
-<p align="center">
   <b>LEARN</b>
   <span> • </span>
   <b>BUILD</b>
@@ -52,8 +48,8 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=48&text=WHO%20I%20AM&fontSize=24&fontFamily=Montserrat&fontColor=E0F2FE&color=0:0B1220,50:102A43,100:1E3A5F&stroke=38BDF8&strokeWidth=1&animation=twinkling"
-    width="38%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=50&text=WHO%20I%20AM%3F&fontSize=24&fontFamily=Montserrat&fontColor=E0F2FE&color=0:0B1220,50:102A43,100:1E3A5F&stroke=38BDF8&strokeWidth=1&animation=twinkling"
+    width="42%"
     alt="Who I Am"
   />
 </p>
@@ -184,8 +180,8 @@ Data Analytics · Data Science · Machine Learning · AI Engineering · Generati
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=48&text=CURRENTLY%20LEARNING&fontSize=23&fontFamily=Montserrat&fontColor=ECFDF5&color=0:0B1220,50:064E3B,100:065F46&stroke=34D399&strokeWidth=1&animation=twinkling"
-    width="45%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=50&text=CURRENTLY%20LEARNING&fontSize=24&fontFamily=Montserrat&fontColor=ECFDF5&color=0:0B1220,50:064E3B,100:065F46&stroke=34D399&strokeWidth=1&animation=twinkling"
+    width="42%"
     alt="Currently Learning"
   />
 </p>
@@ -201,43 +197,43 @@ Data Analytics · Data Science · Machine Learning · AI Engineering · Generati
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=48&text=EDUCATION&fontSize=23&fontFamily=Montserrat&fontColor=E0F2FE&color=0:0B1220,50:172554,100:1E3A8A&stroke=60A5FA&strokeWidth=1&animation=twinkling"
-    width="32%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=50&text=EDUCATION&fontSize=24&fontFamily=Montserrat&fontColor=E0F2FE&color=0:0B1220,50:172554,100:1E3A8A&stroke=60A5FA&strokeWidth=1&animation=twinkling"
+    width="42%"
     alt="Education"
   />
 </p>
 
-<h3 align="center">Bachelor of Technology — Computer Science &amp; Engineering</h3>
+<div align="left">
 
-<p align="center">
-  <strong>GLA University, Mathura</strong><br/>
-  <strong>Specialization:</strong> Artificial Intelligence, Machine Learning &amp; IoT<br/>
-  <strong>CGPA:</strong> 7.04
-</p>
+Bachelor of Technology — Computer Science & Engineering
+GLA University, Mathura
+Specialization: Artificial Intelligence, Machine Learning & IoT
+</div>
 
 <!-- ========================= CERTIFICATIONS ========================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=48&text=CERTIFICATIONS&fontSize=23&fontFamily=Montserrat&fontColor=FEF3C7&color=0:0B1220,50:422006,100:78350F&stroke=FBBF24&strokeWidth=1&animation=twinkling"
-    width="38%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=50&text=CERTIFICATIONS&fontSize=24&fontFamily=Montserrat&fontColor=FEF3C7&color=0:0B1220,50:422006,100:78350F&stroke=FBBF24&strokeWidth=1&animation=twinkling"
+    width="42%"
     alt="Certifications"
   />
 </p>
 
-<p align="center">
-  Microsoft Azure AI Fundamentals — <strong>AI-900</strong><br/>
-  Machine Learning — <strong>Internshala</strong><br/>
-  Advanced Python — <strong>Infosys</strong><br/>
-  Data Analyst — <strong>SkillCred</strong>
-</p>
+<div align="left">
+
+- Microsoft Azure AI Fundamentals — AI-900
+- Machine Learning — Internshala
+- Advanced Python — Infosys
+- Data Analyst — SkillCred
+</div>
 
 <!-- ========================= CONTRIBUTION SNAKE ========================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=48&text=CONTRIBUTION%20SNAKE&fontSize=23&fontFamily=Montserrat&fontColor=E0F2FE&color=0:0B1220,50:0F3B4A,100:312E81&stroke=38BDF8&strokeWidth=1&animation=twinkling"
-    width="44%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=50&text=CONTRIBUTION%20SNAKE&fontSize=24&fontFamily=Montserrat&fontColor=E0F2FE&color=0:0B1220,50:0F3B4A,100:312E81&stroke=38BDF8&strokeWidth=1&animation=twinkling"
+    width="42%"
     alt="Contribution Snake"
   />
 </p>
@@ -254,8 +250,8 @@ Data Analytics · Data Science · Machine Learning · AI Engineering · Generati
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=48&text=BEYOND%20CODE&fontSize=23&fontFamily=Montserrat&fontColor=F3E8FF&color=0:0B1220,50:312E81,100:581C87&stroke=A78BFA&strokeWidth=1&animation=twinkling"
-    width="38%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=50&text=BEYOND%20CODE&fontSize=24&fontFamily=Montserrat&fontColor=F3E8FF&color=0:0B1220,50:312E81,100:581C87&stroke=A78BFA&strokeWidth=1&animation=twinkling"
+    width="42%"
     alt="Beyond Code"
   />
 </p>
