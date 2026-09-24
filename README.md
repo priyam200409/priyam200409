@@ -94,11 +94,8 @@ Data Analytics · Data Science · Machine Learning · AI Engineering · Generati
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -108,7 +105,7 @@ Data Analytics · Data Science · Machine Learning · AI Engineering · Generati
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
@@ -116,7 +113,7 @@ Data Analytics · Data Science · Machine Learning · AI Engineering · Generati
 <h3 align="center">AI &amp; Machine Learning</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -143,19 +140,17 @@ Data Analytics · Data Science · Machine Learning · AI Engineering · Generati
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 <h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111"/>
+
 </p>
 
 <h3 align="center">Cloud &amp; Platforms</h3>
@@ -205,9 +200,7 @@ Data Analytics · Data Science · Machine Learning · AI Engineering · Generati
 
 <div align="left">
 
-Bachelor of Technology — Computer Science & Engineering
-GLA University, Mathura
-Specialization: Artificial Intelligence, Machine Learning & IoT
+Bachelor of Technology — Computer Science & Engineering (Specialization: Artificial Intelligence, Machine Learning & IoT),GLA University, Mathura(UP).
 </div>
 
 <!-- ========================= CERTIFICATIONS ========================= -->
@@ -267,8 +260,8 @@ Specialization: Artificial Intelligence, Machine Learning & IoT
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=48&text=CONNECT&fontSize=23&fontFamily=Montserrat&fontColor=E0F2FE&color=0:0B1220,50:0F3B4A,100:1E3A8A&stroke=38BDF8&strokeWidth=1&animation=twinkling"
-    width="28%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=50&text=CONNECT&fontSize=24&fontFamily=Montserrat&fontColor=E0F2FE&color=0:0B1220,50:0F3B4A,100:1E3A8A&stroke=38BDF8&strokeWidth=1&animation=twinkling"
+    width="42%"
     alt="Connect"
   />
 </p>
