@@ -242,7 +242,7 @@ An AI-powered physical therapy platform using computer vision to analyze rehabil
 
 ## 🐍 Contribution Snake
 
-![Contribution Snake](https://raw.githubusercontent.com/priyam200409/priyam200409/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/priyam200409/priyam200409/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
