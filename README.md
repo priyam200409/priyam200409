@@ -214,6 +214,10 @@ An AI-powered physical therapy platform using computer vision to analyze rehabil
 
 ---
 
+# 📄 Resume
+
+[View My Resume](./Priyam_Srivastava_GLAU.pdf)
+
 # 🔗 Connect With Me
 
 <p align="left">
